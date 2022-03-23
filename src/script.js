@@ -5,3 +5,8 @@ function sayHello() {
 function work () {
   console.log('Work!');
 }
+
+// Another function
+function weather () {
+  console.log('The weather is good!');
+}
